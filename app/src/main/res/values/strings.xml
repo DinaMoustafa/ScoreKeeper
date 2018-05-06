@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="egypt_goals_score">0</string>
+    <string name="egypt_goals_button">+1Goal</string>
+    <string name="egypt_fouls_button">+1Foul</string>
+    <string name="egypt_red_cards_button">+1Card</string>
+    <string name="egypt_fouls_score">0</string>
+    <string name="egypt_rcards_num">0</string>
+    <string name="egypt_ycard_num">0</string>
+    <string name="egypt_yellow_cards_button">+1Card</string>
+    <string name="reset_button">reset</string>
+    <string name="uruguay_goals_score">0</string>
+    <string name="uruguay_goals_button">+1Goal</string>
+    <string name="uruguay_fouls_score">0</string>
+    <string name="uruguay_fouls_button">+1Foul</string>
+    <string name="uruguay_rcards_num">0</string>
+    <string name="uruguay_red_cards_button">+1Card</string>
+    <string name="uruguay_ycards_num">0</string>
+    <string name="uruguay_yellow_cards_button">+1Card</string>
+</resources>

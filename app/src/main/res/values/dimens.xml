@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">16dp</dimen>
+    <dimen name="layout_width">0dp</dimen>
+    <dimen name="egypt_score_size">50sp</dimen>
+    <dimen name="score_size">25sp</dimen>
+    <dimen name="margin_right">5dp</dimen>
+    <dimen name="margin_left">5dp</dimen>
+    <dimen name="uruguay_score_size">50sp</dimen>
+</resources>
